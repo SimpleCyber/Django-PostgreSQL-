@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3q%g7czwblzpdx%=r85u2f7vo_srm)1mto^rvv!!^7$ov*9=%+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-postgresql-ngqr.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
