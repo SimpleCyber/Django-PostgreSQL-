@@ -49,6 +49,14 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://django-postgresql-ngqr.onrender.com"
+]
+
+
+
 ROOT_URLCONF = 'crud_project.urls'
 
 TEMPLATES = [
