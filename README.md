@@ -1,5 +1,4 @@
-# 🚀 Django + PostgreSQL CRUD App ||😎 DearCoder ||
-
+# 🚀 Django + PostgreSQL CRUD App
 A beginner-friendly Django project to **connect PostgreSQL locally and online** and perform **full CRUD operations**. This project helps understand PostgreSQL integration with Django in both development and production environments.
 
 > 🌐 [Live Demo](https://django-postgresql-ngqr.onrender.com)  
